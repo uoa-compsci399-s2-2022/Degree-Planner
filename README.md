@@ -14,7 +14,7 @@ Technologies that are used to build the project (include the languages used, the
 Instructions on how to install and setup the project:
 <br>
 <br>
-<h2>The 'choose-course-api' is the back-end, 'choose-course-ui' is the foront-end.</h2>
+<h2>The 'choose-course-api' is the back-end, 'choose-course-ui' is the foront-end, and the .spl file 'student_choose_course' is the database.</h2>
 <br>
 <br>
 
